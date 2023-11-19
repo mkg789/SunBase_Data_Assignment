@@ -96,3 +96,6 @@ buttons would do.
 - Basically we need ability to Login, view the list of customer, create a new customer,
 delete and update an existing customer.
 It will consist of 3 screens
+
+
+![image](https://github.com/mkg789/SunBase_Data_Assignment/assets/126147162/69e3fdd3-6133-41bb-a41f-8802415697d8)
